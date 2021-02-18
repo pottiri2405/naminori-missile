@@ -1,6 +1,13 @@
 {
   "resources": [
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"sprite0_idle_strip20","path":"sprites/sprite0_idle_strip20/sprite0_idle_strip20.yy",},"order":2,},
+    {"id":{"name":"Weird_but_Fluffy_Character_I","path":"extensions/Weird_but_Fluffy_Character_I/Weird_but_Fluffy_Character_I.yy",},"order":0,},
+    {"id":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},"order":2,},
+    {"id":{"name":"obj_naminori","path":"objects/obj_naminori/obj_naminori.yy",},"order":0,},
+    {"id":{"name":"sprite1_jump_strip20","path":"sprites/sprite1_jump_strip20/sprite1_jump_strip20.yy",},"order":3,},
+    {"id":{"name":"spr_bg_1","path":"sprites/spr_bg_1/spr_bg_1.yy",},"order":1,},
+    {"id":{"name":"sprite2_walk_strip20","path":"sprites/sprite2_walk_strip20/sprite2_walk_strip20.yy",},"order":4,},
+    {"id":{"name":"sprite3_attack_strip20","path":"sprites/sprite3_attack_strip20/sprite3_attack_strip20.yy",},"order":5,},
   ],
   "Options": [
     {"name":"HTML5","path":"options/html5/options_html5.yy",},
@@ -12,10 +19,12 @@
   "tutorialPath": "",
   "configs": {
     "name": "Default",
-    "children": [],
+    "children": [
+      {"name":"NewConfig1","children":[],},
+    ],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
