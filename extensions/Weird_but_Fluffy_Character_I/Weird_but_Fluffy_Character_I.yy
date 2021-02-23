@@ -7,7 +7,7 @@
   "packageId": "com.incyre.fluffychar1",
   "productId": "ACBD3CFF4E539AD869A0E8E3B4B022DD",
   "author": "",
-  "date": "2021-02-18T08:04:24.681214+09:00",
+  "date": "2021-02-23T09:24:09.908565+09:00",
   "license": "Free to use, also for commercial games.",
   "description": "",
   "helpfile": "",
